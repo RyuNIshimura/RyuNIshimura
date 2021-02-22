@@ -1,10 +1,11 @@
-<h1 align="center">Hi👋, I'm Ryu Nishiimura</h1>
+<h1 align="center">Hi👋, I'm Ryu Nishimura</h1>
 
 - 🔭 I’m currently working on [blog](https://nishimura.club)
 
+- 👯 I’m currently working on [legosearch](https://legosearch.app)
+
 - 🌱 I’m currently learning **NuxtJS, Hasura, Firebase**
 
-- 👯 I’m currently working on [legosearch](https://legosearch.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
