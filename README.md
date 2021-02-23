@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Ryu Nishimura</h1>
 
-- 🔭 I’m currently working on [Tech blog](https://nishimura.club)
+- 🔭 I’m currently working on [Tech Blog](https://nishimura.club)
 
 - 👯 I’m currently working on [LEGO Database](https://legosearch.app)
 
