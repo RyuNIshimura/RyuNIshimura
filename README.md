@@ -1,8 +1,8 @@
 <h1 align="center">Hi👋, I'm Ryu Nishimura</h1>
 
-- 🔭 I’m currently working on [blog](https://nishimura.club)
+- 🔭 I’m currently working on [Tech blog](https://nishimura.club)
 
-- 👯 I’m currently working on [legosearch](https://legosearch.app)
+- 👯 I’m currently working on [LEGO Database](https://legosearch.app)
 
 - 🌱 I’m currently learning **NuxtJS, Hasura, Firebase**
 
