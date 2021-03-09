@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on [Tech Blog](https://nishimura.club)
 
-- 👯 I’m currently working on [LEGO Database](https://legosearch.app)
-
-- 🌱 I’m currently learning **NuxtJS, Hasura, Firebase**
+- 🌱 I’m currently learning **NuxtJS, NextJS, Blockchain**
 
 
 <h3 align="left">Connect with me:</h3>
