@@ -1,5 +1,7 @@
 <h1 align="center">Hi👋, I'm Ryu Nishimura</h1>
 
+- 🔭 I’m currently working on [Osushi](https://osushi.io/).
+
 - 🔭 I’m currently working on [NextJS Blog](https://nishimura.club).
 
 - 🔭 I’m currently working on [NuxtJS Blog](https://nishimura-club.netlify.app).
