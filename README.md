@@ -1,12 +1,11 @@
-<h1 align="center">Hi👋, I'm Ryu Nishimura</h1>
+<h3 align="left">Works</h3>
 
-- 🔭 I’m currently working on [Osushi](https://osushi.io/).
+- [Osushi - Code Snippets](https://osushi.io/).
 
-- 🔭 I’m currently working on [NextJS Blog](https://nishimura.club).
+- [NextJS Blog](https://nishimura.club).
 
-- 🔭 I’m currently working on [NuxtJS Blog](https://nishimura-club.netlify.app).
+- [NuxtJS Blog](https://nishimura-club.netlify.app).
 
-- 🌱 I’m currently learning front-end technologies.
 
 
 <h3 align="left">Connect with me:</h3>
