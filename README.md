@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuNIshimura&show_icons=true&theme=tokyonight)
+
 <h3 align="left">Works</h3>
 
 - [Osushi - Code Snippets](https://osushi.io/).
