@@ -1,10 +1,10 @@
 <h3 align="left">Works</h3>
 
-- [Osushi - Code Snippets](https://osushi.io/).
+- [Osushi - Code Snippets](https://github.com/RyuNIshimura/osushi)
 
-- [NextJS Blog](https://nishimura.club).
+- [NextJS Blog](https://nishimura.club)
 
-- [NuxtJS Blog](https://nishimura-club.netlify.app).
+- [NuxtJS Blog](https://nishimura-club.netlify.app)
 
 
 
