@@ -1,2 +1,1 @@
-- [Nishimura Club](https://nishimura.club) -  My blog, created with Next.js and Contentful
-- [Osushi](https://github.com/RyuNIshimura/osushi) - Code snippet sharing app
+# ✋
