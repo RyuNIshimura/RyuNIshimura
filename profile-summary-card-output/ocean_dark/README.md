@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/RyuNIshimura/RyuNIshimura/main/profile-summary-card-output/ocean_dark/4-productive-time.svg)
+```
+
+    
